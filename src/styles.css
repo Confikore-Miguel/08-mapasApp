@@ -1,0 +1,10 @@
+html,body{
+    height: 100%;
+    width: 100%;
+}
+app-menu{
+    position: fixed;
+    margin-top: 20px;
+    margin-left: 20px;
+    z-index: 999999;
+}
